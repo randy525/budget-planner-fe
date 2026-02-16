@@ -1,0 +1,20 @@
+[
+  {
+    "category": "Clothing",
+    "value": -300.0,
+    "time": "2025-05-25T14:12:29.895376",
+    "income": false
+  },
+  {
+    "category": "Food",
+    "value": -300.0,
+    "time": "2025-05-25T14:12:25.41534",
+    "income": false
+  },
+  {
+    "category": "Salary",
+    "value": 5000.0,
+    "time": "2025-05-25T14:08:02.746181",
+    "income": true
+  }
+]
