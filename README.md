@@ -49,7 +49,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/randy525/budget-planner-fe.git
 cd budget-planner-fe
 ```
 
@@ -72,7 +72,7 @@ pnpm install
 
 ### 3. Configure API Endpoint
 
-The application is configured to connect to a backend API. By default, it expects the backend to be running at `http://localhost:8080`.
+The application is configured to connect to a backend API. By default, it expects the backend to be running at `http://localhost:8080`. [Link to BE repository](https://github.com/randy525/budget-planner.git).
 
 To change the API endpoint, edit `src/api/index.js` and update the `API_BASE_URL` constant:
 
